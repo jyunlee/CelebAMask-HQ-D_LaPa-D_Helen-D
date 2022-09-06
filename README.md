@@ -13,14 +13,14 @@ Jihyun Lee, Binod Bhattarai, Tae-Kyun (T-K) Kim
 
 
 ## CelebAMask-HQ-D
-1. Download RGB images and annotations from the [official CelebAMask-HQ repository](https://github.com/switchablenorms/CelebAMask-HQ).
+1. Download RGB images and annotations from [the official CelebAMask-HQ repository](https://github.com/switchablenorms/CelebAMask-HQ).
 2. Download depth images from [this Google Drive link](https://drive.google.com/drive/folders/1NuQAmLgxzE7w2yIW4jBnAie3sj7Su03Y?usp=sharing).
 
 ## LaPa-D
-1. Download RGB images and annotations from the [official LaPa repository](https://github.com/JDAI-CV/lapa-dataset).
+1. Download RGB images and annotations from [the official LaPa repository](https://github.com/JDAI-CV/lapa-dataset).
 2. Download depth images from [this Google Drive link](https://drive.google.com/drive/folders/1NuQAmLgxzE7w2yIW4jBnAie3sj7Su03Y?usp=sharing).
 
 ## Helen-D
-1. Download RGB images and annotations from the [official Helen website](http://www.ifp.illinois.edu/~vuongle2/helen/).
+1. Download RGB images and annotations from [the official Helen website](http://www.ifp.illinois.edu/~vuongle2/helen/).
 2. Download depth images from [this Google Drive link](https://drive.google.com/drive/folders/1NuQAmLgxzE7w2yIW4jBnAie3sj7Su03Y?usp=sharing).
 
