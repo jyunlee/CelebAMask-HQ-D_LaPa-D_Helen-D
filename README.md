@@ -16,15 +16,15 @@ Jihyun Lee, Binod Bhattarai, Tae-Kyun (T-K) Kim
 
 ## CelebAMask-HQ-D
 1. Download RGB images and annotations from [the official CelebAMask-HQ repository](https://github.com/switchablenorms/CelebAMask-HQ).
-2. Download `CelebAMask-HQ-D.zip`  from [this Google Drive link](https://drive.google.com/drive/folders/1NuQAmLgxzE7w2yIW4jBnAie3sj7Su03Y?usp=sharing). Extract the zip file to obtain our depth-augmented images.
+2. Download `CelebAMask-HQ-D.zip`  from [this Google Drive link](https://drive.google.com/drive/folders/1NuQAmLgxzE7w2yIW4jBnAie3sj7Su03Y?usp=sharing). Extract the zip file to obtain our depth images.
 
 ## LaPa-D
 1. Download RGB images and annotations from [the official LaPa repository](https://github.com/JDAI-CV/lapa-dataset).
-2. Download `LaPa-D.zip`  from [this Google Drive link](https://drive.google.com/drive/folders/1NuQAmLgxzE7w2yIW4jBnAie3sj7Su03Y?usp=sharing). Extract the zip file to obtain our depth-augmented images.
+2. Download `LaPa-D.zip`  from [this Google Drive link](https://drive.google.com/drive/folders/1NuQAmLgxzE7w2yIW4jBnAie3sj7Su03Y?usp=sharing). Extract the zip file to obtain our depth images.
 
 ## Helen-D
 1. Download RGB images and annotations from [the official Helen website](http://www.ifp.illinois.edu/~vuongle2/helen/).
-2. Download `Helen-D.zip`  from [this Google Drive link](https://drive.google.com/drive/folders/1NuQAmLgxzE7w2yIW4jBnAie3sj7Su03Y?usp=sharing). Extract the zip file to obtain our depth-augmented images.
+2. Download `Helen-D.zip`  from [this Google Drive link](https://drive.google.com/drive/folders/1NuQAmLgxzE7w2yIW4jBnAie3sj7Su03Y?usp=sharing). Extract the zip file to obtain our depth images.
 
 &nbsp;
 
