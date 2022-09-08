@@ -26,6 +26,8 @@ Jihyun Lee, Binod Bhattarai, Tae-Kyun (T-K) Kim
 1. Download RGB images and annotations from [the official Helen website](http://www.ifp.illinois.edu/~vuongle2/helen/).
 2. Download `Helen-D.zip`  from [this Google Drive link](https://drive.google.com/drive/folders/1NuQAmLgxzE7w2yIW4jBnAie3sj7Su03Y?usp=sharing). Extract the zip file to obtain our depth-augmented images.
 
+&nbsp;
+
 ## Citation
 If you find this work useful, please consider citing our paper.
 ```
