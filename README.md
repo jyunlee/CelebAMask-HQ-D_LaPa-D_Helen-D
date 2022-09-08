@@ -14,13 +14,57 @@ Jihyun Lee, Binod Bhattarai, Tae-Kyun (T-K) Kim
 
 ## CelebAMask-HQ-D
 1. Download RGB images and annotations from [the official CelebAMask-HQ repository](https://github.com/switchablenorms/CelebAMask-HQ).
-2. Download depth images from [this Google Drive link](https://drive.google.com/drive/folders/1NuQAmLgxzE7w2yIW4jBnAie3sj7Su03Y?usp=sharing).
+2. Download `CelebAMask-HQ-D.zip`  from [this Google Drive link](https://drive.google.com/drive/folders/1NuQAmLgxzE7w2yIW4jBnAie3sj7Su03Y?usp=sharing). Extract the zip file to obtain our depth-augmented images.
 
 ## LaPa-D
 1. Download RGB images and annotations from [the official LaPa repository](https://github.com/JDAI-CV/lapa-dataset).
-2. Download depth images from [this Google Drive link](https://drive.google.com/drive/folders/1NuQAmLgxzE7w2yIW4jBnAie3sj7Su03Y?usp=sharing).
+2. Download `LaPa-D.zip`  from [this Google Drive link](https://drive.google.com/drive/folders/1NuQAmLgxzE7w2yIW4jBnAie3sj7Su03Y?usp=sharing). Extract the zip file to obtain our depth-augmented images.
 
 ## Helen-D
 1. Download RGB images and annotations from [the official Helen website](http://www.ifp.illinois.edu/~vuongle2/helen/).
-2. Download depth images from [this Google Drive link](https://drive.google.com/drive/folders/1NuQAmLgxzE7w2yIW4jBnAie3sj7Su03Y?usp=sharing).
+2. Download `Helen-D.zip`  from [this Google Drive link](https://drive.google.com/drive/folders/1NuQAmLgxzE7w2yIW4jBnAie3sj7Su03Y?usp=sharing). Extract the zip file to obtain our depth-augmented images.
 
+## Citation
+If you find this work useful, please consider citing our paper.
+```
+@inproceedings{lee2021face,
+  title={Face parsing from RGB and depth using cross-domain mutual learning},
+  author={Lee, Jihyun and Bhattarai, Binod and Kim, Tae-Kyun},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  year={2021}
+}
+```
+
+## Acknowledgements
+
+We sincerely appreciate the authors of the original `CelebAMask-HQ` , `LaPa` and `Helen` benchmarks, which our work is mainly based on. If you find our work useful, please consider citing these papers too:
+
+#### CelebAMask-HQ [Lee *et al.*, CVPR 2020]
+```
+@inproceedings{CelebAMask-HQ,
+  title={MaskGAN: Towards Diverse and Interactive Facial Image Manipulation},
+  author={Lee, Cheng-Han and Liu, Ziwei and Wu, Lingyun and Luo, Ping},
+  booktitle={IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year={2020}
+}
+```
+
+#### LaPa [Liu *et al.*, AAAI 2021]
+```
+@inproceedings{liu2020new,  
+  title={A New Dataset and Boundary-Attention Semantic Segmentation for Face Parsing.},  
+  author={Liu, Yinglu and Shi, Hailin and Shen, Hao and Si, Yue and Wang, Xiaobo and Mei, Tao},  
+  booktitle={AAAI},  
+  year={2020}  
+}
+```
+
+#### Helen [Le *et al.*, ECCV 2012]
+```
+@inproceedings{le2012interactive,
+  title={Interactive facial feature localization},
+  author={Le, Vuong and Brandt, Jonathan and Lin, Zhe and Bourdev, Lubomir and Huang, Thomas S},
+  booktitle={European conference on computer vision},
+  year={2012},
+}
+```
