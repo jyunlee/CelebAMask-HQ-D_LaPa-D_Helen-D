@@ -43,7 +43,7 @@ If you find this work useful, please consider citing our paper.
 
 ## Acknowledgements
 
-We sincerely appreciate the authors of the original `CelebAMask-HQ` , `LaPa` and `Helen` benchmarks, which our work is mainly based on. If you find our work useful, please consider citing these papers too:
+We sincerely appreciate the authors of the original `CelebAMask-HQ` , `LaPa` and `Helen` benchmarks, which our work is mainly based on. If you find our work useful, please also consider citing these papers:
 
 #### CelebAMask-HQ [Lee *et al.*, CVPR 2020]
 ```
