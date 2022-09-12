@@ -34,7 +34,7 @@ If you find this work useful, please consider citing our paper.
 @inproceedings{lee2021face,
   title={Face parsing from RGB and depth using cross-domain mutual learning},
   author={Lee, Jihyun and Bhattarai, Binod and Kim, Tae-Kyun},
-  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops},
   year={2021}
 }
 ```
@@ -50,7 +50,7 @@ We sincerely appreciate the authors of the original `CelebAMask-HQ` , `LaPa` and
 @inproceedings{CelebAMask-HQ,
   title={MaskGAN: Towards Diverse and Interactive Facial Image Manipulation},
   author={Lee, Cheng-Han and Liu, Ziwei and Wu, Lingyun and Luo, Ping},
-  booktitle={IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+  booktitle={CVPR},
   year={2020}
 }
 ```
@@ -70,7 +70,7 @@ We sincerely appreciate the authors of the original `CelebAMask-HQ` , `LaPa` and
 @inproceedings{le2012interactive,
   title={Interactive facial feature localization},
   author={Le, Vuong and Brandt, Jonathan and Lin, Zhe and Bourdev, Lubomir and Huang, Thomas S},
-  booktitle={European conference on computer vision},
+  booktitle={ECCV},
   year={2012},
 }
 ```
